@@ -1,0 +1,6 @@
+# _config.yml
+title: My Path Learning about Back End Dev Going To 100Streak Days
+description: Dokumentasi untuk belajar back-end development
+baseurl: "/DokumentasiCodingBackEndDev"  # Ubah ini jika repositori Anda memiliki nama yang berbeda
+url: "https://lua99w.github.io"  # Ganti dengan URL GitHub Pages Anda
+theme: jekyll-theme-slate  # Jika Anda menggunakan tema Jekyll
